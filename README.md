@@ -3,8 +3,9 @@ synonym-list
 
 Solr Synoym mapping file for track, release and Artist Searches in the Search-API
 
-[Taken from https://wiki.apache.org/solr/AnalyzersTokenizersTokenFilters#solr.SynonymFilterFactory](https://wiki.apache.org/solr/AnalyzersTokenizersTokenFilters#solr.SynonymFilterFactory)
+Edit the synonyms.txt file to add new synonyms. Use the syntax as described below:
 
+[Taken from https://wiki.apache.org/solr/AnalyzersTokenizersTokenFilters#solr.SynonymFilterFactory](https://wiki.apache.org/solr/AnalyzersTokenizersTokenFilters#solr.SynonymFilterFactory)
 
 \# blank lines and lines starting with pound are comments.
 
