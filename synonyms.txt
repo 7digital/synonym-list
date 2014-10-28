@@ -17,3 +17,5 @@ tv => television, tv
 &, and
 
 maroon V, maroon five, maroon 5
+
+mowgli's, mowglis
