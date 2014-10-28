@@ -3,6 +3,8 @@ synonym-list
 
 Solr Synoym mapping file for track, release and Artist Searches in the Search-API
 
+We will accept pull requests.
+
 Edit the synonyms.txt file to add new synonyms. Use the syntax as described below:
 
 [Taken from https://wiki.apache.org/solr/AnalyzersTokenizersTokenFilters#solr.SynonymFilterFactory](https://wiki.apache.org/solr/AnalyzersTokenizersTokenFilters#solr.SynonymFilterFactory)
