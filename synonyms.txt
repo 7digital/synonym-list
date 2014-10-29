@@ -17,3 +17,4 @@ tv => television, tv
 maroon V, maroon five, maroon 5
 
 mowgli's, mowglis
+rmx, remix
