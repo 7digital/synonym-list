@@ -41,7 +41,7 @@ rmx => remix, rmx
 1000, thousand
 
 20s, 20's, twenties
-30s, 30's. thirties
+30s, 30's, thirties
 40s, 40's, fourties
 50s, 50's, fifties
 60s, 60's, sixties
