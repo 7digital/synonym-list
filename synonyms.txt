@@ -12,11 +12,6 @@ tv => television, tv
 mowgli's => mowglis, mowgli's
 rmx => remix, rmx
 
-# punctuation separated
-m.i.a. => mia, m.i.a.
-n.e.r.d. => nerd, n.e.r.d.
-r.e.m. => rem, r.e.m.
-
 # non alphabet to alphabet
 ke$ha => kesha, ke$ha
 p!nk => pink, p!nk
