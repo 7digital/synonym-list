@@ -9,7 +9,6 @@ and, &
 
 # explicit mappings
 tv => television, tv
-mowgli's => mowglis, mowgli's
 rmx => remix, rmx
 
 # non alphabet to alphabet
