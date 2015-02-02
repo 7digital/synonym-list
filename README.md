@@ -77,4 +77,11 @@ ipod => i pod
 - We don't expect a significant bloat in index size.
 - We don't want to write/use custom query parsers in order to handle the unintuitive behaviour of the standard query parsers with query time synonym filtering.
 - Our indexes are entirely rebuilt at least once a day; there should not be more than 24 hours between a change in synonyms in the repo and its application to our search index.
+ 
+#British/American synonym generation
+Requires nltk to generate synonyms. For a nicer user experience use invoke.
+```
+sudo pip install nltk invoke
+invoke generate
+```
 
