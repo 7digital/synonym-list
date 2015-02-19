@@ -16,6 +16,7 @@ ke$ha => kesha, ke$ha
 p!nk => pink, p!nk
 a$ap => a.$.A.p, asap, a.s.a.p, a$ap
 deadmau5 => deadmaus, deadmouse, deadmau5
+mi$tro => mistro, mi$tro
 
 # numbers
 1, one
