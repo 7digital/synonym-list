@@ -6,6 +6,7 @@ flamin', flaming
 rollin', rolling
 uziq, u-ziq, µ-ziq, µziq
 and, &
+pillowtalk, pillow talk
 
 # explicit mappings
 tv => television, tv
