@@ -7,7 +7,7 @@ rollin', rolling
 uziq, u-ziq, µ-ziq, µziq
 and, &
 pillowtalk, pillow talk
-guns n roses, guns and roses
+guns n roses, guns and roses, guns & roses
 
 # explicit mappings
 tv => television, tv
